@@ -1,0 +1,16 @@
+{
+"ties":[
+      {"title":"BULLETIN DOT", "color":"TEAL", "url":"/images/bulletin_dot.jpeg", "id":1},
+      {"title":"BULLETIN DOT", "color":"RED", "url":"/images/bulletin_dot_red.jpg", "id":2},
+      {"title":"BULLETIN DOT", "color":"LIGHT CORNFLOWER", "url":"/images/bulletin_dot_light_cornflower.jpg", "id":3},
+      {"title":"BULLETIN DOT", "color":"NAVY", "url":"/images/bulletin_dot_navy.jpg", "id":4},
+      {"title":"CANYON CHECKS", "color":"KELLY GREEN", "url":"/images/canyon_checks.jpg", "id":5},
+      {"title":"CANYON CHECKS", "color":"AZALEA", "url":"/images/canyon_checks_azalea.jpg", "id":6},
+      {"title":"CANYON CHECKS", "color":"RED", "url":"/images/canyon_checks_red.jpg", "id":7},
+      {"title":"GINGHAM SHADE", "color":"APPLE GREEN", "url":"/images/gingham_shade_apple_green.jpg", "id":8},
+      {"title":"GINGHAM SHADE", "color":"SALMON PINK", "url":"/images/gingham_shade_salmon_pink.jpg", "id":9},
+      {"title":"GINGHAM SHADE", "color":"MIDNIGHT NAVY", "url":"/images/gingham_shade_midnight_navy.jpg", "id":10},
+      {"title":"GINGHAM SHADE", "color":"LIGHT BLUE", "url":"/images/gingham_shade_light_blue.jpg", "id":11},
+      {"title":"GINGHAM SHADE", "color":"APPLE RED", "url":"/images/gingham_shade_apple_red.jpg", "id":12}
+  ]
+}
