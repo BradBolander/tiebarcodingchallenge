@@ -1,12 +1,12 @@
-$('#render-toggle').click(function(){
-  $('#tie-render').toggle(500);
-  $('#hint').toggle(500);
+$( document ).ready(function() {
+  $('#render-toggle').click(function(){
+    $('#tie-render').toggle(500);
+    $('#hint').toggle(500);
+  });
+  $('#container').addClass('magictime puffIn');
+  $('#render-toggle').show();
+  $('#render-toggle').addClass('magictime puffIn');
 });
-$('#container').addClass('magictime puffIn');
-
-$('#render-toggle').show();
-$('#render-toggle').addClass('magictime puffIn');
-
 
 var TiesContainer = React.createClass({
   componentDidMount: function() {

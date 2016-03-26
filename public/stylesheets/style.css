@@ -12,7 +12,7 @@ a {
 }
 
 #render-toggle {
-  margin-top: 100px;
+  margin-top: 50px;
   margin: 0 auto;
   display: block;
   width: 100px;
@@ -44,7 +44,7 @@ a {
   text-align: center;
   color: rgb(64, 64, 64);
   display: none;
-  margin-top: 50px;
+  margin-top: 25px;
 }
 
 .tie-block:hover {
@@ -71,4 +71,5 @@ a {
 #tie-render {
   min-height: 500px;
   display: none;
+  border: 1px solid rgba(122, 122, 122, 0.61);
 }
